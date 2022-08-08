@@ -1,2 +1,3 @@
-<?php include_once("home.html"); ?>
+
 <?php include_once("myCar.html"); ?>
+<?php include_once("responsive.html"); ?>
