@@ -38,7 +38,6 @@ function myFunc(some){
 }
 function getFile(myCallBack)
 {
-    let proxy = "https://cors-anywhere.herokuapp.com/"
     let req= new XMLHttpRequest();
     req.open('GET', "myCar.html")
     req.onload = function(){
